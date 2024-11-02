@@ -1,0 +1,69 @@
+{
+    "items":[
+        {
+            "sys": {"id":"1"},
+            "fields": {
+                "title": "pyton programming Mastercode",
+                "price": 123.99,
+                "image": {"fields":{"file":{"url":"img/card2.png"}}}   
+            }
+        },
+        {
+            "sys": {"id":"2"},
+            "fields": {
+                "title": "bag programming Mastercode",
+                "price": 100.99,
+                "image": {"fields":{"file":{"url":"img/card3.png"}}}
+            }
+        },
+        {
+            "sys": {"id":"3"},
+            "fields": {
+                "title": "laptop programming Mastercode",
+                "price": 129.09,
+                "image": {"fields":{"file":{"url":"img/card4.png"}}}
+            }
+        },
+        {
+            "sys": {"id":"4"},
+            "fields": {
+                "title": "Js programming Mastercode",
+                "price": 129.10,
+                "image": {"fields":{"file":{"url":"img/card5.png"}}}
+            }
+        },
+        {
+            "sys": {"id":"5"},
+            "fields": {
+                "title": "Digit programming Mastercode",
+                "price": 122.10,
+                "image": {"fields":{"file":{"url":"img/card6.jpg"}}}
+            }
+        },
+        {
+            "sys": {"id":"6"},
+            "fields": {
+                "title": "adv programming Mastercode",
+                "price": 200.22,
+                "image": {"fields":{"file":{"url":"img/card7.png"}}}
+            }
+        },
+        {
+            "sys": {"id":"7"},
+            "fields": {
+                "title": "gym programming Mastercode",
+                "price": 999.99,
+                "image": {"fields":{"file":{"url":"img/card1.png"}}}
+            }
+        },
+        {
+            "sys": {"id":"8"},
+            "fields": {
+                "title": "movement programming Mastercode",
+                "price": 123.99,
+                "image": {"fields":{"file":{"url":"img/card8.png"}}}
+            }
+        }
+       
+    ] 
+}
